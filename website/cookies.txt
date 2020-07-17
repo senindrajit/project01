@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dainikjugasankha.in	TRUE	/	FALSE	1999999999	__cfduid	dad5f50e912b22cc5dcc042f247c706ff1595010317
+dainikjugasankha.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+
